@@ -73,10 +73,10 @@ SD = np.sqrt(var)
 print(f"The Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
+```
 
 
 colab link:https://colab.research.google.com/drive/1eKNC1SJ6J7Lzc2V6tmghMMBM1k7HYfMe?usp=sharing
-```
 
 
 # Output:
