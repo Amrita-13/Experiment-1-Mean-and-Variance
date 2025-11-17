@@ -47,6 +47,10 @@ It is calculated as:
 
 # Program: 
 ```
+Name: Amrita B S
+Reg.No:25018474
+Slot No:3P1-1
+
 import numpy as np
 L = [int(i) for i in input("Enter arrival data: ").split()]
 N = len(L)
@@ -71,7 +75,7 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 
-
+colab link:https://colab.research.google.com/drive/1eKNC1SJ6J7Lzc2V6tmghMMBM1k7HYfMe?usp=sharing
 ```
 
 
