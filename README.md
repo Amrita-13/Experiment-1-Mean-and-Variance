@@ -46,7 +46,7 @@ It is calculated as:
 
 
 # Program: 
-
+```
 import numpy as np
 L = [int(i) for i in input("Enter arrival data: ").split()]
 N = len(L)
@@ -72,16 +72,17 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 
 
-
+```
 
 
 # Output:
+```
 Enter arrival data: 6 6 6 6 6 8 7 9
 The Mean arrival rate is 6.750
 The Variance of arrival from feeder is 1.188
 The Standard deviation of arrival from feeder is 1.090
 
-
+```
 
 
 # Result: 
